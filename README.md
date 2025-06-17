@@ -290,6 +290,6 @@ This project demonstrates how to set up a **dynamic landing page** hosted on **G
 
 ### Screenshot of the Rendered Page:
 
-![Rendered Page Screenshot](screenshot.png)
+![Rendered Page Screenshot](./screenshot.jpg)
 
 ---
